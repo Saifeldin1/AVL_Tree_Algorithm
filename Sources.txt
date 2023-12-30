@@ -1,0 +1,4 @@
+https://iq.opengenus.org/time-complexity-of-avl-tree/
+https://www.interviewkickstart.com/learn/data-structures-and-algorithms-avl-trees
+https://youtu.be/jDM6_TnYIqE?feature=shared
+https://youtu.be/FNeL18KsWPc?feature=shared
